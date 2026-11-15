@@ -1,0 +1,10 @@
+# Social links shown as icons on the home page, in this order.
+# Supported names: https://github.com/george-gca/jekyll-socials
+email: jiamu_huang@ucsb.edu
+github_username: jiamuH
+cv_pdf: /assets/pdf/Jiamu_Huang_CV.pdf
+# Fill in if you have them:
+# orcid_id:        # e.g. 0000-0002-1825-0097
+# scholar_userid:  # the "user=" part of your Google Scholar profile link
+# instagram_id:    # e.g. a photography account
+# linkedin_username:

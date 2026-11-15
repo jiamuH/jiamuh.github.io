@@ -1,0 +1,16 @@
+# Colors of the journal badges on the publications page.
+"MNRAS":
+  url: https://academic.oup.com/mnras
+  color: "#1f4e79"
+
+"ApJ":
+  url: https://iopscience.iop.org/journal/0004-637X
+  color: "#7a1f1f"
+
+"A&A":
+  url: https://www.aanda.org/
+  color: "#2e6b30"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"

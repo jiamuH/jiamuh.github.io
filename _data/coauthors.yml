@@ -1,0 +1,13 @@
+# Co-author names in the publication list link to these pages.
+# Key = last name in lowercase; firstname = the spellings used in BibTeX entries.
+"hennawi":
+  - firstname: ["Joseph", "J.", "Joseph F.", "J. F."]
+    url: https://web.physics.ucsb.edu/~joe/
+
+"lin":
+  - firstname: ["Douglas N. C.", "D. N. C.", "Douglas", "D."]
+    url: https://www.astro.ucsc.edu/faculty/index.php?uid=dnlin
+
+"horne":
+  - firstname: ["Keith", "K."]
+    url: https://www.st-andrews.ac.uk/physics-astronomy/people/kdh1/
