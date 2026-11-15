@@ -306,6 +306,10 @@ defaults:
       path: "googlecaacbf08000935c5.html"
     values:
       sitemap: false
+  - scope:
+      path: "googlec01a39871c206f3d.html"
+    values:
+      sitemap: false
 
 sass:
   style: compressed
