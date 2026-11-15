@@ -209,3 +209,8 @@ html[data-theme-setting="light"] {
 #light-toggle:hover .fa-half-sun-moon::after {
   color: var(--global-theme-color);
 }
+
+// Local addition: show the full name (first and last) in bold in the top menu bar.
+.navbar-brand.title {
+  font-weight: bold !important;
+}
