@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Publications by Jiamu Huang, newest first.
+description: Publications by Jiamu Huang, first-author papers first, then co-authored papers, newest first.
 nav: true
 nav_order: 1
 ---
@@ -17,6 +17,12 @@ My full publication record is also on [NASA ADS](https://ui.adsabs.harvard.edu/s
 
 <div class="publications">
 
-{% bibliography %}
+<h2 class="bibliography">First-author papers</h2>
+
+{% bibliography --query @*[selected=true]* --group_by none %}
+
+<h2 class="bibliography">Co-authored papers</h2>
+
+{% bibliography --query @*[selected!=true]* --group_by none %}
 
 </div>
